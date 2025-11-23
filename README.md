@@ -25,7 +25,7 @@ The purpose of this project is to practice using Visual Studio Code, Git, and Gi
 
 ## Screenshot
 (Add a screenshot in `/screenshots` folder and update this section later)
-
+![Homepage Screenshot](screenshots/homepage.png)
 ---
 
 ## Technologies Used
