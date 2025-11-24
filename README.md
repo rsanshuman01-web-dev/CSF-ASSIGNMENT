@@ -38,4 +38,6 @@ The purpose of this project is to practice using Visual Studio Code, Git, and Gi
 
 ## Author
 **Anshuman Sharma**  
+## Team Member
+**Mohit Tanwar**
 B.Tech CSE (AI & ML)
